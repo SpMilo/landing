@@ -1,0 +1,26 @@
+.banner {
+	background-image: url(../../images/banner.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	flex-grow: 1;
+	margin: 0px 0px;
+}
+
+.banner h1 { 
+	font-size: 90px;
+	font-weight: bold;
+	}
+
+.banner h2 {
+	font-size: 40px;
+	font-weight: normal;
+	margin-bottom: 40px;
+}
+
+.banner h1, h2 {
+	justify-content: center;
+	align-content: center ;
+	text-align: center;
+}
